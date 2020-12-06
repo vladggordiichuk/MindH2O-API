@@ -1,7 +1,7 @@
 # MySql
 
-mysql_user = "root"
-mysql_password = "rootroot"
-mysql_host = "localhost"
+mysql_user = "nobiwa3371"
+mysql_password = "nobiwa3371@hmnmw.com"
+mysql_host = "db4free.net"
 mysql_port = "3306"
-mysql_database = "MindH2O"
+mysql_database = "mokka999"

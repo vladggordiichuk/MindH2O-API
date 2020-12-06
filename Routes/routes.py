@@ -4,4 +4,5 @@ import Routes.routes_general
 import Routes.routes_users
 import Routes.routes_logs
 
-app.run()
+if __name__ == '__main__':
+    app.run(debug=True)
